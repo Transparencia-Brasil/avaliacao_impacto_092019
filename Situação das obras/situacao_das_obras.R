@@ -162,3 +162,4 @@ obras_fim_seg_fase <- obras2019_08_16 %>%
 
 setwd("C:/Users/coliv/Documents/avaliacao_impacto_092019/Situação das obras")
 save(obras_fim_seg_fase, file="obras_antes_inicio_seg_fase.Rdata")
+

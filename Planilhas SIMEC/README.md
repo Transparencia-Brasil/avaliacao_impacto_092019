@@ -1,4 +1,3 @@
 # Planilhas SIMEC
 
-"Fotos das obras" após os períodos dos experimentos: julho de 2018 e julho de 2019.
-
+Arquivos originais das situações das obras. Cada arquivo está nomeado com a data que foi gerado

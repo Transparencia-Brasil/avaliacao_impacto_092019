@@ -16,10 +16,8 @@ como_data <- function(x) {
   
 }
 
-setwd("C:/Users/coliv/Documents/tadepe-tdp_impact2/bancos")
+setwd("C:/Users/coliv/Documents/avaliacao_impacto_092019/Bancos")
 load("controle1.Rdata")
-
-
 
 
 
@@ -161,5 +159,5 @@ obras_fim_seg_fase <- obras2019_08_16 %>%
          data_prevista_de_conclusao_da_obra = como_data(data_prevista_de_conclusao_da_obra))
 
 setwd("C:/Users/coliv/Documents/avaliacao_impacto_092019/Situação das obras")
-save(obras_fim_seg_fase, file="obras_antes_inicio_seg_fase.Rdata")
+save(obras_fim_seg_fase, file="obras_fim_seg_fase.Rdata")
 
